@@ -1,0 +1,10 @@
+C:\Users\jande\source\repos\jogo_cartas\bin\Debug\jogo_cartas.exe.config
+C:\Users\jande\source\repos\jogo_cartas\bin\Debug\jogo_cartas.exe
+C:\Users\jande\source\repos\jogo_cartas\bin\Debug\jogo_cartas.pdb
+C:\Users\jande\source\repos\jogo_cartas\obj\Debug\jogo_cartas.csproj.AssemblyReference.cache
+C:\Users\jande\source\repos\jogo_cartas\obj\Debug\jogo_cartas.Form1.resources
+C:\Users\jande\source\repos\jogo_cartas\obj\Debug\jogo_cartas.Properties.Resources.resources
+C:\Users\jande\source\repos\jogo_cartas\obj\Debug\jogo_cartas.csproj.GenerateResource.cache
+C:\Users\jande\source\repos\jogo_cartas\obj\Debug\jogo_cartas.csproj.CoreCompileInputs.cache
+C:\Users\jande\source\repos\jogo_cartas\obj\Debug\jogo_cartas.exe
+C:\Users\jande\source\repos\jogo_cartas\obj\Debug\jogo_cartas.pdb
