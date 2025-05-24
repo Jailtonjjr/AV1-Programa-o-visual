@@ -1,0 +1,17 @@
+C:\Users\leand\Desktop\Urnaa\Urnaa\bin\Debug\net8.0-windows\Urnaa.exe
+C:\Users\leand\Desktop\Urnaa\Urnaa\bin\Debug\net8.0-windows\Urnaa.deps.json
+C:\Users\leand\Desktop\Urnaa\Urnaa\bin\Debug\net8.0-windows\Urnaa.runtimeconfig.json
+C:\Users\leand\Desktop\Urnaa\Urnaa\bin\Debug\net8.0-windows\Urnaa.dll
+C:\Users\leand\Desktop\Urnaa\Urnaa\bin\Debug\net8.0-windows\Urnaa.pdb
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.Form1.resources
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.Properties.Resources.resources
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.csproj.GenerateResource.cache
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.AssemblyInfo.cs
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.dll
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\refint\Urnaa.dll
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.pdb
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\Urnaa.genruntimeconfig.cache
+C:\Users\leand\Desktop\Urnaa\Urnaa\obj\Debug\net8.0-windows\ref\Urnaa.dll
