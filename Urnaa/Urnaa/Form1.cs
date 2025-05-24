@@ -16,8 +16,8 @@ namespace Urnaa
 
             _dicCandidato = new Dictionary<string, Candidato>();
             _dicCandidato.Add("02", new Candidato() { Id = 02, Nome = "Jimmy Tong", Partido = "Terno", Foto = Properties.Resources.Jimmy});
-            _dicCandidato.Add("98", new Candidato() { Id = 98, Nome = "Insperto Lee", Partido = "Rush", Foto = Properties.Resources.Lee });
-            _dicCandidato.Add("10", new Candidato() { Id = 10, Nome = "Mr. Han", Partido = "Karatê", Foto = Properties.Resources.Han});
+            _dicCandidato.Add("98", new Candidato() { Id = 98, Nome = "Inspetor Lee", Partido = "Rush", Foto = Properties.Resources.Lee });
+            _dicCandidato.Add("10", new Candidato() { Id = 10, Nome = "Mr. Han", Partido = "KaratÃª", Foto = Properties.Resources.Han});
 
 
         }
@@ -137,7 +137,7 @@ namespace Urnaa
             }
             else
             {
-                MessageBox.Show("Candidato não encontrado!");
+                MessageBox.Show("Candidato nÃ£o encontrado!");
             }
         }
 
